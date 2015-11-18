@@ -697,7 +697,7 @@ body.nav-opened .nav {
     padding: 0 20px;
     margin-left: 8px;
     margin-bottom: 8px;
-    color: #111 !important; /* Overides `.nav a:link, .nav a:visited` colour */
+    color: #FFF !important; /* Overides `.nav a:link, .nav a:visited` colour */
     text-align: center;
     font-size: 12px;
     font-family: "Open Sans", sans-serif;
