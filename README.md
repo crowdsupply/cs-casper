@@ -1,8 +1,6 @@
-# Casper
+# Fork of Casper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
-
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+The Ghost theme for the [Crowd Supply blog](https://blog.crowdsupply.com).
 
 ## Copyright & License
 
